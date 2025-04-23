@@ -7,7 +7,7 @@ int main()
     int val = strcmp(a, b);
     if (val == 0)
     {
-        printf("Equal\n");
+        printf("Equal");
     }
     else if (val < 0)
     {
